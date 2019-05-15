@@ -1,0 +1,17 @@
+{
+    "name": "valen/apero-php",
+    "description": "lib",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Valentin",
+            "email": "derrevalentin@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    }
+}
